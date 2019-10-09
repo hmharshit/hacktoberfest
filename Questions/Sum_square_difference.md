@@ -9,4 +9,4 @@ Hence the difference between the sum of the squares of the first ten natural num
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 
-![image](https://user-images.githubusercontent.com/21979074/66503896-b6fdaf80-eae5-11e9-9d5c-b1ca124f0a64.png)
+![image](https://user-images.githubusercontent.com/21979074/66504255-620e6900-eae6-11e9-9d01-3e26be3ec387.png)
