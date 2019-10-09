@@ -13,7 +13,7 @@ rl.on('line', line => {
     }
 
     
-    let max = parseInt(line)
+    let max = parseInt(line) #Block scope max variable
     let sum = [...Array(max).keys()].filter(x => !(x % 3 && x % 5)).reduce((acc, next) => acc + next)
     console.log(sum)
 })
