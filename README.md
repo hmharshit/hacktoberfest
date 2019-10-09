@@ -7,9 +7,9 @@ Submit solutions for the questions
 # Steps to follow
 * Fork and Star the repository
 * Clone the forked repo
-* Create a seperate branch with your github username
-* Read the open issues and comment if you are working on that issue to improve collision
-* Push your code
+* Create a seperate branch with your github  in the forked repository
+* Read the open issues and comment if you are working on that issue with your preferred programming language to avoid collision
+* Push your code to your forked repository.
 * Create a PR
 * Wait for PR to merge :)
 
@@ -24,4 +24,6 @@ Submit solutions for the questions
 ## [Sign Up Here for Hacktoberfest](https://hacktoberfest.digitalocean.com)
 
 # Connect with me
-If you need any help, you can connect to me via [linkedin](https://linkedin.com/in/hmharshit). 
+If you need any help, you can connect to me via [linkedin](https://linkedin.com/in/hmharshit).
+
+Also you may comment on #8 (Issue no. 8) for your any query and doubt.
