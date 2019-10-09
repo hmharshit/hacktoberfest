@@ -1,12 +1,12 @@
 puts 'Please enter number of inputs'
-inputs = gets.chomp.to_i
+T = gets.chomp.to_i
 
 n = 0
 test_cases = []
-while n < inputs do
+while n < T do
   puts "please enter test case #{n+1}:"
-  test_case = gets.chomp.to_i
-  test_cases.push(test_case)
+  N = gets.chomp.to_i
+  test_cases.push(N)
   n+=1
 end
 
