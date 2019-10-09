@@ -14,6 +14,7 @@ Submit solutions for the questions
 * Wait for PR to merge :)
 
 # What should you keep in mind ?
+* Multiple solutions for same question in different programming languages are acceptable.
 * Solutions should be original (not copied from any website)
 * File name should be same as of question file name and should be in answer folder.
 * You can always ask for help, but do some google search prior to that.
