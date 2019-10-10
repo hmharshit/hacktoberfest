@@ -27,7 +27,7 @@ ll lcm(int arr[], int n)
 int main() 
 { 
     int t;
-    cin>>t;
+    scanf("%d",&t);
    
     while(t--)
     {
