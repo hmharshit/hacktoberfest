@@ -28,3 +28,6 @@ Submit solutions for the questions
 If you need any help, you can connect to me via [linkedin](https://linkedin.com/in/hmharshit).
 
 Also you may comment on #8 (Issue no. 8) for your any query and doubt.  
+
+## Contributors in Curating Questions
+* [AmanDeep](https://github.com/AmanDeep9925)
