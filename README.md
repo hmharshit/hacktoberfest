@@ -16,6 +16,7 @@ Submit solutions for the questions
 # What should you keep in mind ?
 * Multiple solutions for same question in different programming languages are acceptable.
 * Solutions should be original (not copied from any website)
+* It is mandatory that you specify that in the respective Issue that you are working on this. (Otherwise your PR will be considered as invalid)
 * File name should be same as of question file name and should be in answer folder.
 * You can always ask for help, but do some google search prior to that.
 * That's it. You're Welcome.
@@ -26,4 +27,4 @@ Submit solutions for the questions
 # Connect with me
 If you need any help, you can connect to me via [linkedin](https://linkedin.com/in/hmharshit).
 
-Also you may comment on #8 (Issue no. 8) for your any query and doubt.
+Also you may comment on #8 (Issue no. 8) for your any query and doubt.  
