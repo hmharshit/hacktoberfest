@@ -61,8 +61,8 @@ if __name__ == "__main__":
         l.append(k)
     for j in range(n-1):
         findSum(l[0],l[1])
-        
-    print(l[0][0:10] )#splicing upto 10 digits
+    print("summing the no we get ",l[0])
+    print("first 10 digits are",l[0][0:10] )#splicing upto 10 digits
 	    
 	
 
