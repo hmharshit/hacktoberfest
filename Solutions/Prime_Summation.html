@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  <p>Click the button to find the sum of the prime numbers going up to a certain amount.</p>
+  <button onclick="myFunction()">Try it</button>
+  <p id="demo"></p>
+  <script>
+    function myFunction() {
+      var input = prompt("Number that prime numbers go up to:");
+      if (input != null) {
+        let primeNums = []
+
+        function test_prime(n) {
+          if (n === 1) {
+            return;
+          }
+          primeNums.push(2);
+          if (n > 2) {
+            for (let x = 3; x <= n; x++) {
+              let z = 0;
+              for (let y = 2; y < x; y++) {
+                if (x % y === 0) {
+                  z++;
+                  break;
+                }
+              }
+              if (z === 0) {
+                primeNums.push(x);
+              }
+            }
+          }
+        }
+
+        test_prime(input);
+
+        const arrSum = arr => arr.reduce((a,b) => a + b, 0);
+          window.alert("Sum is: " + arrSum(primeNums));
+      }
+    }
+
+  </script>
+</body>
+
+</html>
